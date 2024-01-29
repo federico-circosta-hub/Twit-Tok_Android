@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleNav</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fontcol">fontcol</string>
+    <string name="bgcol">bgcol</string>
+    <string name="fontsize">fontsize</string>
+    <string name="fontfamily">fontfamily</string>
+    <string name="Fontcolor" />
+</resources>
